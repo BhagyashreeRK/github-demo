@@ -1,6 +1,5 @@
 "This is the sample file."
-:wq
-
+"Editing sample file to check the git diff command"
 
 
 
